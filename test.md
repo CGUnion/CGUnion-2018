@@ -13,10 +13,10 @@
    
 <h2>Design</h2>
 
-<ol>
+<ul>
 <li>DNA probe
 <li>Chip
-</ol>
+</ul>
    
 <h2>Lab</h2>
 
