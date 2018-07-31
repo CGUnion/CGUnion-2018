@@ -8,7 +8,6 @@
     <li>The problem
     <li>Our solution
     <li>Project goal
-      
    </dl>
    
 <h2>Design</h2>
@@ -16,7 +15,7 @@
    <ol>
     <li>DNA probe
     <li>Chip
-   </ol>
+   
    
 <h2>Lab</h2>
   
