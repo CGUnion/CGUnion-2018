@@ -1,12 +1,9 @@
-BIOMOD @CGU
-<!-- 主頁 -->
-<ul>
-  <li>
-  <li>Abstract
-  <li>Video
-  <li>Project
+<h1>BIOMOD @CGU</h1>
+
+<h2>Abstract</h2>
+<h2>Video</h2>
+<h2>Project</h2>
    <ul>
-     
     <li>Background
     <li>The problem
     <li>Our solution
@@ -14,31 +11,25 @@ BIOMOD @CGU
       
    </ul>
    
-  <li>Design
+<h2>Design</h2>
   
    <ol>
-  
     <li>DNA probe
     <li>Chip
-    
    </ol>
    
-  <li>Lab
+<h2>Lab</h2>
   
    <ul>
-  
     <li>Background
     <li>Materials and methods
     <li>Result
     <li>Conclusion
     <li>Refference
-    
    </ul>
    
-  <li>Future
+<h2>Future</h2>
   
-  <li>Team
+<h2>Team</h2>
   
-  <li>Sponsors
-  
-</ul>
+<h2>Sponsors</h2>
