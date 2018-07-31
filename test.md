@@ -3,19 +3,19 @@
 <h2>Abstract</h2>
 <h2>Video</h2>
 <h2>Project</h2>
-   <dl>
+   <ul>
     <li>Background
     <li>The problem
     <li>Our solution
     <li>Project goal
-   </dl>
+   </ul>
    
 <h2>Design</h2>
   
    <ol>
     <li>DNA probe
     <li>Chip
-   
+   </ol>
    
 <h2>Lab</h2>
   
