@@ -13,7 +13,6 @@ BIOMOD @CGU
   <li>Design
    <ol>
     <li>DNA probe
-      
     <li>Chip
    </ol>
   <li>Lab
