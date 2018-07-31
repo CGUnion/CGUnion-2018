@@ -3,13 +3,13 @@
 <h2>Abstract</h2>
 <h2>Video</h2>
 <h2>Project</h2>
-   <ul>
+   <dl>
     <li>Background
     <li>The problem
     <li>Our solution
     <li>Project goal
       
-   </ul>
+   </dl>
    
 <h2>Design</h2>
   
