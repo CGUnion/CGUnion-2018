@@ -10,6 +10,8 @@
 <li>The problem</li>
 <li>Our solution</li>
 <li>Project goal</li>
+   醫院若是採用這種方法，希望可以更準確用藥、減緩抗藥性突變速度
+
 </ul>
    
 <h2>Design</h2>
