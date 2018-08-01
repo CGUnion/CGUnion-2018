@@ -4,7 +4,7 @@
 <h2>Biomolecule-based nanostructures are of great interests in bio-nanomaterial design due to their rich structural diversity and inherent biocompatibility. Among them, cyclic peptides have received remarkable attention owing to their rigid configuration as well as chemical and enzymatic stability. To date, previous reports have mainly focused on the construction of nanotubes in a ring-stacking manner through hydrogen bonding. However, other assembling strategies have rarely been explored. In this work, two cyclic peptides, cyclo-(DP)3 and cyclo-(DG)3, have been rationally designed and used as building blocks to fabricate novel assemblies. Nanovesicles and nanotubes were successfully constructed by crosslinking cyclo-(DP)3 with hexamethylendiamine or cyclo-RR based on covalent bonding or electrostatic interaction. To further explore its potential application in nucleotide delivery, plasmid DNA and oligoRNA were successfully bound to the vesicles and the latter was taken into the cell. On the basis of this result, more complex functions, such as gene delivery and targeted siRNA delivery, are expected to achieve with these cyclic peptide assemblies.</h2>
 
 <h1 id="video" >Video</h1>
-  <div><iframe width="800" height="504" src="https://www.youtube.com/embed/6jo-yD0Wkao" frameborder="0" allowfullscreen></iframe></div>
+  <div><iframe width="800" height="504" src="https://youtu.be/ExT4F3fYdIA?list=RDExT4F3fYdIA" frameborder="0" allowfullscreen></iframe></div>
 
 <h1>Project</h1>
 
@@ -53,15 +53,22 @@
 </ul>
 </ul>
    
-<h1>Lab</h1>
+<h1>Experiment</h1>
 
 <ul>
-<h2><li>Background</li></h2>
-<h2><li>Materials and methods</li></h2>
-<h2><li>Result</li></h2>
-<h2><li>Conclusion</li></h2>
-<h2><li>Refference</li></h2>
+<h2><li>Purification</li></h2>
+  <p>All the assemblies synthesized using amination reaction were purified by three days of dialysis against DMF and another three days of dialysis against water. Then, the assemblies were enrichd using ultrafiltration membranes (100KD, Millipore). The assemblies constructed through electrostatic interaction were directly characterized without purification.</p>
+<h2><li>Synthesis of Cyclic Peptides</li></h2>
+  <p>The linear peptide precursor was synthesized using solid phase peptide synthesis (SPPS) method. The cyclic peptides were synthesized either in a dilute DMF solution (0.1 mmol/L) or using ion-assisted method (5 mmol/L). The cyclic peptides used for self-assembly were purchased from the above-mentioned companies and directly used without further purification.</p>
+<h2><li>Dynamic Light Scattering and Zeta Potential Measurements</li></h2>
+  <p>The size and the zeta potential of the cyclo-peptide complexes were measured by dynamic light scattering using a Zetasizer NANO ZS90 (Malvern Instruments, UK). Three repeat measurements were made for each complex.</p>
+<h2><li>Preparation of Assemblies/Plasmid DNA (pLVX-shRNA1) Complex</li></h2>
+  <p>The assemblies/plasmid DNA (pLVX-shRNA1) complex was prepared as described below: 20 μL assemblies was mixed with 2 μL, 79 ng/μL solution of plasmid DNA (pLVX-shRNA1) ; All the plasmid DNA are generously donated by Dr. Haihong Zhang from Engineering Laboratory for AIDS Vaccine, Jilin University. The resulting complexes were kept for 24 hours at room temperature prior to use.</p>
+<h2><li>Cell Culture and Transfection</li></h2>
+  <p>Human breast cancer (MCF-7) cells were maintained in RPMI-1640 growth medium (Hyclone, South Logan, USA) supplemented with 10% fetal bovine serum (FBS, Gibco, Grand Island, USA), 1% v/v penicillin/ streptomycin solution (10000 U mL-1/10 mg mL-1) at 37℃ in an atmosphere of 5% CO2. MCF-7 cells were seeded onto 24-well plates (NEST, Wuxi, China) at a density of 5.0 × 105 cells per well and allowed to adhere overnight. The cells were serum starved and treated with 500μl of the oligo RNA, or assemblies/oligo RNA complexes. Following 6 hours of incubation, the plate was washed three times by PBS and the cells were incubated with fresh serum-containing medium for another 2 hours at 37℃ in an atmosphere of 5% CO2 before further analysis. Images of cells were obtained by fluorescence microscope (OLYMPUS IX71, Japan)</p>
 </ul>
+
+<h1>Result</h1>
    
 <h1>Future</h1>
   
