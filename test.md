@@ -37,7 +37,7 @@
 <h2><li>DNA probe</li></h2>
   <p>The purpose of our project in the BIOMOD competition isn’t to capture a payload of any medicinal value, but rather to prove the concept that a payload can be captured unbound inside of a DNA origami box which could potentially be modified to facilitate targeted delivery.</p>
 <p>There a number of potential directions to take this project from here on. Some interesting avenues and opportunities include:</p>
-  <h3 class=align center>Testing different brace-releasing mechanisms other than via endonuclease</h3>
+  <p><h2><font align="center">Testing different brace-releasing mechanisms other than via endonuclease</h3></p>
 <p>Cutting the DNA brace with a restriction enzyme is only one way of releasing the pressure and capturing a payload. For example perhaps a binding event could take place in which the DNA in the brace binds to an accessory on the payload and thus stops supporting the lids causing the box to collapse.</p>
 
 <p>This is worthwhile exploring as it may offer a more elegant solution with less or perhaps no modification to the payload of interest in order to capture it. Different variations of brace structures and receptors could exploit natural properties of the payload of interest to trigger selective closing.</p>
