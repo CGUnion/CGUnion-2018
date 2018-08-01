@@ -31,7 +31,7 @@
 <p>here is a trade-off between choosing goals that are realistic in the short timeframe of BIOMOD and which are also scientifically significant and exciting. The prospect of developing new DNA origami vessels which can selectively capture unbound molecular cargo is one which can be explored in many directions, but for this competition we have chosen strategic goals which allow us to test the core concept and its feasibility</p>
 </ul>
    
-<h2>Design</h2>
+<h1>Design</h>
 
 <ul>
 <h2><li>DNA probe</li></h2>
@@ -41,10 +41,12 @@
 <p>Cutting the DNA brace with a restriction enzyme is only one way of releasing the pressure and capturing a payload. For example perhaps a binding event could take place in which the DNA in the brace binds to an accessory on the payload and thus stops supporting the lids causing the box to collapse.</p>
 
 <p>This is worthwhile exploring as it may offer a more elegant solution with less or perhaps no modification to the payload of interest in order to capture it. Different variations of brace structures and receptors could exploit natural properties of the payload of interest to trigger selective closing.</p>
+
 <h2><li>Chip</li></h2>
+
 </ul>
    
-<h2>Lab</h2>
+<h1>Lab</h1>
 
 <ul>
 <h2><li>Background</li></h2>
@@ -54,8 +56,8 @@
 <h2><li>Refference</li></h2>
 </ul>
    
-<h2>Future</h2>
+<h1>Future</h1>
   
-<h2>Team</h2>
+<h1>Team</h1>
   
-<h2>Sponsors</h2>
+<h1>Sponsors</h1>
