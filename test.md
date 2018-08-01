@@ -31,7 +31,7 @@
 <p>here is a trade-off between choosing goals that are realistic in the short timeframe of BIOMOD and which are also scientifically significant and exciting. The prospect of developing new DNA origami vessels which can selectively capture unbound molecular cargo is one which can be explored in many directions, but for this competition we have chosen strategic goals which allow us to test the core concept and its feasibility</p>
 </ul>
    
-<h1>Design</h>
+<h1>Design</h1>
 
 <ul>
 <h2><li>DNA probe</li></h2>
