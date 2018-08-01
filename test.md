@@ -16,7 +16,7 @@
 <p>
 What if we could load a vessel with an unbound payload? So that when delivered rather than remaining attached to the vessel the cargo is free to diffuse out and perform its function. Would the free cargo be more effective compared to a bound cargo? Could it fit into smaller spaces and perform unique tasks that were previously unachievable due to being bound to the vessel?</p>
 <p>
-  What if we could take it a step further and build a vessel which was selectively responsive to autonomously loading a particular cargo? Could that lay the foundation for a new generation of smart drug delivery vessels which can not only selectively unload their cargo, but can also identify free cargo in solution and load it?</h2></p>
+  What if we could take it a step further and build a vessel which was selectively responsive to autonomously loading a particular cargo? Could that lay the foundation for a new generation of smart drug delivery vessels which can not only selectively unload their cargo, but can also identify free cargo in solution and load it?</p></h2>
   <h2><li>Our solution</li></h2>
   <h2>These are interesting questions to ask, but for the sake of practicality they should be considered one at a time. First, we needed to ask if it were possible to capture any molecular cargo unbound inside a vessel.
 <p>
@@ -28,13 +28,20 @@ The only alternative, we found, was to design a vessel which could actually be t
 <p>
 Even with the application of targeted delivery aside, capture of free molecules inside of molecular cages has proved to be a significant challenge and this project offers a novel solution. This design also creates opportunity for research and discovery regarding the mechanical properties of spring-loaded DNA origrami structures, such as torsional and longitudinal stiffness.</h2></p>
   <h2><li>Project goal</li></h2>
-
+<h2>here is a trade-off between choosing goals that are realistic in the short timeframe of BIOMOD and which are also scientifically significant and exciting. The prospect of developing new DNA origami vessels which can selectively capture unbound molecular cargo is one which can be explored in many directions, but for this competition we have chosen strategic goals which allow us to test the core concept and its feasibility</h2>
 </ul>
    
 <h2>Design</h2>
 
 <ul>
 <li>DNA probe</li>
+  The purpose of our project in the BIOMOD competition isn’t to capture a payload of any medicinal value, but rather to prove the concept that a payload can be captured unbound inside of a DNA origami box which could potentially be modified to facilitate targeted delivery.
+<p>
+There a number of potential directions to take this project from here on. Some interesting avenues and opportunities include:</p>
+  <h3 class=align center>Testing different brace-releasing mechanisms other than via endonuclease</h3>
+<p>Cutting the DNA brace with a restriction enzyme is only one way of releasing the pressure and capturing a payload. For example perhaps a binding event could take place in which the DNA in the brace binds to an accessory on the payload and thus stops supporting the lids causing the box to collapse.</p>
+
+<p>This is worthwhile exploring as it may offer a more elegant solution with less or perhaps no modification to the payload of interest in order to capture it. Different variations of brace structures and receptors could exploit natural properties of the payload of interest to trigger selective closing.</p>
 <li>Chip</li>
 </ul>
    
