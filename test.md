@@ -43,7 +43,7 @@
 <p>This is worthwhile exploring as it may offer a more elegant solution with less or perhaps no modification to the payload of interest in order to capture it. Different variations of brace structures and receptors could exploit natural properties of the payload of interest to trigger selective closing.</p>
 
 <h2><li>Chip</li></h2>
-<p><h2><font align="center">Potential cargo release mechanisms</h2></p></font>
+<p><h3><font align="center">Potential cargo release mechanisms</h3></p></font>
 <p>The next step is obviously to modify or design a new spring-loaded structure which can not only trap but also release the molecular payload. A couple of potential strategies include:</p>
 <ul>
   <li>Star activity of the endonuclease could eat out of the origami at body temperature. Perhaps the origami could be ingested in a frozen tablet to strategically time the degradation.</li>
